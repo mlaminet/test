@@ -1,0 +1,23 @@
+
+
+.cercle {
+    position: relative;
+    float: right;
+    width: 10%;  
+    height: 30px !important;
+    width: 30px;
+    border: 1px solid red !important; 
+    margin-top: 5px; 
+    border-radius: 20px; margin-left: 5px;
+}
+
+.entete {
+    position: relative;
+    float: right;
+    width: 10%;  
+    height: 30px !important;
+    min-height:30px;
+    border: 1px solid white !important; 
+    margin-top: 5px; 
+    border-radius: 5px;
+}
