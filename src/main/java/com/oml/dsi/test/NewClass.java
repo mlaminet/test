@@ -10,5 +10,5 @@ package com.oml.dsi.test;
  * @author toure0599
  */
 public class NewClass {
-    
+    public int test;
 }
