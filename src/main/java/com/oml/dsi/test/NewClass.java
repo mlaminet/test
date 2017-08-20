@@ -10,5 +10,11 @@ package com.oml.dsi.test;
  * @author toure0599
  */
 public class NewClass {
-    public int test;
+    public static int test;
+    private static String test1;
+    public static void main(String[] args) {
+        if(test1.equals("RIEN")){
+            System.out.println("Rien à afficher");
+        }
+    }
 }
