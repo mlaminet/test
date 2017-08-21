@@ -16,5 +16,8 @@ public class NewClass {
         if(test1.equals("RIEN")){
             System.out.println("Rien à afficher");
         }
+        if(test1.equals("TOUT")){
+            System.out.println("Tout à afficher.......");
+        }
     }
 }
